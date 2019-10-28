@@ -1,0 +1,29 @@
+title: Utkarsh Raghav
+email: contact@utkarshraghav.ml
+description: >- # this means to ignore newlines until "baseurl:"
+  A SDET and a Linux junkie.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+linkedin_username: utkarsh-raghav-qa
+github_username:  TheCyberian
+
+# Build settings
+markdown: kramdown
+theme: jekyll-swiss
+theme_color: white
+
+plugins:
+  - jekyll-feed
+
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

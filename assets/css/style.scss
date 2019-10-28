@@ -1,0 +1,83 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+// @import "minima";
+
+.site-title{
+  padding-top: 10px;
+}
+/* Styling for contact form */
+button[type=submit]{
+  text-align: center;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  background-color: lightgray;
+  border-radius: 4px;
+  font-weight: bold;
+  display: table;
+  margin: auto;
+  margin-top: 5px;
+}
+
+input[type=text]{
+  width: 60%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  background-color: lightgray;
+  border-radius: 4px;
+}
+
+textarea{
+  width: 100%;
+  height: 250px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  resize: none;
+  background-color: lightgray;
+}
+
+textarea:focus{
+  background-color: lightgray;
+}
+
+input[type=text]:focus {
+  background-color: lightgray;
+}
+
+/*--------------------------*/
+
+.page-content{
+  background-image: url("/assets/css/background/ice-age.png");
+  padding-top: 115px;
+}
+.site-nav{
+  padding-top: 10px;
+  position: absolute;
+  top: 0px;
+  border: none;
+}
+
+a:hover{
+  color: silver;
+  text-decoration: none;
+}
+
+.nav-link{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+@media screen and (max-width: 600px) {
+   .site-title {
+     padding-right: 0px; } }
+
+
+@media screen and (max-width: 450px) {
+  #web-name {
+     display: none ; } }
