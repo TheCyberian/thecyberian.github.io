@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-I am a SDET with a comprehensive range of skill sets, including **full stack web application development**, **android application development**, **Automation Testing** and **Web App Penetration testing**. I can develop and build secure solutions designed to attract your targeted customers.
+I am a SDET with a comprehensive range of skill sets, including **Full Stack Web Application development and Testing with Selenium**, **Android Application development and Testing with Appium**, **Test Automation** and **Web App Penetration testing**. I can develop and build secure solutions designed to attract your targeted customers.
 
 As a developer, I can design and develop mobile tools that allow you to tap into an accessible method for communicating to your audience.
 
