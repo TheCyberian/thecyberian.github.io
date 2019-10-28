@@ -1,7 +1,7 @@
 title: Utkarsh Raghav
 email: contact@utkarshraghav.ml
 description: >- # this means to ignore newlines until "baseurl:"
-  A SDET and a Linux junkie.
+  a SDET and a Linux junkie.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://utkarshraghav.ml" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: utkarsh-raghav-qa
