@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to install selenium webdriver with java and eclipse"
+title:  "How to setup selenium webdriver with java and eclipse"
 categories: blog selenium
 author: Utkarsh Raghav
 ---
