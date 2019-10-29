@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Linux Shell - Processes and Jobs"
+title:  "Linux Shell: Processes and Jobs"
 categories: blog linux
 author: Utkarsh Raghav
 ---
 In linux you have control over not just commands input or outputs, but also over execution. You may run commands while a job runs in background. You may cancel the commands before they finish executing, or you may interrupt a command to be started again later from where you left off. Background operations are particulary useful for long jobs such as *apt update* or *apt upgrade*, where instead of waiting at the terminal until the job execution completes, you can place it in the background. Meanwhile, you can continue executing other linux commands in foreground.
 
+## Jobs: Background, Kills and Interruptions
 ### Running in background:
 When you place a job in the background, *a user job number*, placed in square brackets and *a system process number* is displayed.
 - The user job number is the number by which the user references the job.
@@ -54,3 +55,27 @@ $ sudo apt-get update
 ^Z
 $ bg
 {% endhighlight %}
+
+## Ending Processes: ps and kill
+You can also cancel a job using the system process number, which you can obtain with the **ps** command.
+The **ps** command will display your processes, and it displays a great deal more information than the **jobs** command does. The next example lists the processes a user is running. The PID is the system process number, aka, Process ID.
+
+{% highlight shell %}
+$ ps
+PID   TTY          TIME CMD
+7889  pts/1    00:00:09 sh
+7899  pts/1    00:00:03 lpr
+10475 pts/1    00:00:00 ps
+{% endhighlight %}
+
+You can reference the PID in a **kill** command directly, **without preceding % sign**.
+
+{% highlight shell %}
+$ kill 7889
+{% endhighlight %}
+
+In the upcoming article, we'll be going over the basics of shell scripts and shell script programming.
+
+<br/>
+<br/>
+*Keep coding! Have fun.*

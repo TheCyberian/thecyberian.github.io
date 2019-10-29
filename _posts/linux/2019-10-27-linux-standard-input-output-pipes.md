@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Linux Shell - Standard Input/Output, Filename Pattern matching"
+title:  "Linux Shell: Standard Input/Output, Filename Pattern matching"
 categories: blog linux
 author: Utkarsh Raghav
 ---
