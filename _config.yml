@@ -14,7 +14,14 @@ theme_color: blue
 
 plugins:
   - jekyll-feed
-
+  
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      permalink: /:categories/:year/:month/:title
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
