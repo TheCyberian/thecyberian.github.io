@@ -1,6 +1,6 @@
 <div class="py-2 mb-2 prose">
   <a class="no-underline h5 bold text-accent" title="{{ post.url | prepend: site.baseurl }}" href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%b %-d, %Y" }}</a>
-  <a class="no-underline h5 bold text-accent" title="{{ post.url | prepend: site.baseurl }}" href="{{ post.url | prepend: site.baseurl }}"> | {{ post.categories[1] }} {% if post.categories[2] %} | {{ post.categories[2] }} {% endif %} </a>
+  <a class="no-underline h5 bold text-accent" title="{{ post.url | prepend: site.baseurl }}" href="{{ '/categories/' | prepend: site.baseurl }}"> | {{ post.categories[0] }} {% if post.categories[1] %} | {{ post.categories[1] }} {% endif %} </a>
   <h2 class="h1 lh-condensed col-9 mt-0">
     <a class="link-primary" title="{{ post.url | prepend: site.baseurl }}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
   </h2>

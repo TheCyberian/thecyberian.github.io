@@ -8,7 +8,7 @@
     <div class="right sm-width-mb-lg-2 mb-1 mt-1 mt-lg-1">
       <ul class="list-reset right header-text font-smoothing">
         {% for my_page in site.pages %}
-        {% if my_page.title %}
+        {% if my_page.title == "About" %}
         <li class="inline-block">
           <a class="align-middle link-primary header-link mr-2" href="{{ my_page.url | prepend: site.baseurl }}">
             {{ my_page.title }}

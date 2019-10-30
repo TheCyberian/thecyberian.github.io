@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Variables, Strings and Numbers in Kotlin"
-categories: blog Kotlin
+categories: Kotlin
 author: Utkarsh Raghav
 ---
 In the following tutorial, we're going to understand how to declare and initialize String and Int variables in Kotlin.

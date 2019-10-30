@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Linux Shell"
-categories: blog Linux
+categories: Linux
 author: Utkarsh Raghav
 ---
 In the following article, we'll be going over the linux shell, it's types and some basic functionalities of the BASH or Bourne Again SHell.

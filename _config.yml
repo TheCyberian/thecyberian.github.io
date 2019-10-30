@@ -14,7 +14,7 @@ theme_color: blue
 
 plugins:
   - jekyll-feed
-  
+
 defaults:
   - scope:
       path: ""

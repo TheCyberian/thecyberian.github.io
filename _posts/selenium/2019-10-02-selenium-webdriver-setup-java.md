@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to setup selenium webdriver with java and eclipse"
-categories: blog Selenium Java
+categories: Selenium Java
 author: Utkarsh Raghav
 ---
 In the following tutorial, we're going to understand how to setup a basic environment for getting started with automation using selenium with java programming language.

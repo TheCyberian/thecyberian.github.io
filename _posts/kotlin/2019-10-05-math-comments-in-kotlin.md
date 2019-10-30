@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Basic arithmetic operations and comments in Kotlin"
-categories: blog Kotlin
+categories: Kotlin
 author: Utkarsh Raghav
 ---
 In the following tutorial, we're going to understand how to perform basic maths operations and writing comments in between program in Kotlin.

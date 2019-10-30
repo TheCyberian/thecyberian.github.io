@@ -12,7 +12,7 @@
         <div class="clearfix border-bottom-thick header-border">
           <ul class="list-reset right py-1 header-text font-smoothing mr-1">
             {% for my_page in site.pages %}
-              {% if my_page.title %}
+              {% if my_page.title == "About" %}
               <li class="inline-block">
                 <a class="align-middle link-primary header-link mr-2" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
               </li>
@@ -60,13 +60,14 @@
       </header>
       <div class="container mx-auto px-2 py-4">
         <a name="blog" style="text-decoration: none"/>
-        <h1 class="mt-0">Blog</h1>
+        <h1>Blog</h1>
+
         <hr style="color: black;" class="col-9 sm-width-full left border-top-thin"/>
+
         {% for post in site.posts %}
           {% include post_block.html %}
         {% endfor %}
       </div>
-
     </div>
 
     {% include footer.html %}

@@ -2,7 +2,7 @@
 layout: post
 title:  "Counter App: Kotlin Android App"
 date:   2019-10-30 06:49:11
-categories: blog Android Kotlin
+categories: Android Kotlin
 author: Utkarsh Raghav
 ---
 ## Creating a simple Counter application using Kotlin for Android

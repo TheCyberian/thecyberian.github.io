@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "If, When statements and Booleans in Kotlin"
-categories: blog Kotlin
+categories: Kotlin
 author: Utkarsh Raghav
 ---
 
