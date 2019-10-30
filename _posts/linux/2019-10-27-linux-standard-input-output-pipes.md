@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Linux Shell: Standard Input/Output, Filename Pattern matching"
-categories: blog linux
+categories: blog Linux
 author: Utkarsh Raghav
 ---
 In the following article, we'll be going over the ways to manage and control the standard input and output of/from the terminal. We'll be understanding how we can pipe different commands outputs together. But first, we'll be understanding pattern matching for filename expansion.

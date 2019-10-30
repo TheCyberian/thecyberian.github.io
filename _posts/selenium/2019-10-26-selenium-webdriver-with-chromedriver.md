@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to run selenium webdriver scripts on Google Chrome?"
-categories: blog selenium
+categories: blog Selenium Java
 author: Utkarsh Raghav
 ---
 In the following tutorial, we're going to understand how to trigger web applications/Urls in Chrome browser, and print the title of the webpage using selenium with java programming language.

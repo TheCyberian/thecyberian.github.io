@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello World program in Kotlin"
-categories: blog kotlin
+categories: blog Kotlin
 author: Utkarsh Raghav
 ---
 ## Creating a Hello world program with kotlin and IntelliJ Idea.

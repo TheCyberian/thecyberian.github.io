@@ -2,7 +2,7 @@
 layout: post
 title:  "Daily use phrases translate: Android App"
 date:   2019-09-19 06:49:11 +0530
-categories: blog android
+categories: blog Android Java
 author: Utkarsh Raghav
 ---
 # English To Hindi
