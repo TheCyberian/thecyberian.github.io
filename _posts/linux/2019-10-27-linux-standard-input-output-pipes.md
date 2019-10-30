@@ -111,7 +111,7 @@ $ cat myFile | lpr
 $ sort myFile | more
 {% endhighlight %}
 
-In the upcoming article, we'll be learning how to work with jobs. Handling them effectively by understanding background processes, interruptions and how to kill a process. :)
+In the upcoming linux article, we'll be learning how to work with jobs. Handling them effectively by understanding background processes, interruptions and how to kill a process. :)
 
 
 <br/>

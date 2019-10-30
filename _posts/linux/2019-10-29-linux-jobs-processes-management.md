@@ -74,7 +74,7 @@ You can reference the PID in a **kill** command directly, **without preceding % 
 $ kill 7889
 {% endhighlight %}
 
-In the upcoming article, we'll be going over the basics of shell scripts and shell script programming.
+In the upcoming Linux article, we'll be going over the basics of shell scripts and shell script programming.
 
 <br/>
 <br/>
