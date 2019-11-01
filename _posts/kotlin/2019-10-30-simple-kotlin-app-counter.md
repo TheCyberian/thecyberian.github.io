@@ -77,7 +77,7 @@ value of count. *\
 }
 {% endhighlight %}
 
-And that it. Our application is good to go.
+And that's it. Our application is good to go.
 
 <br/>
 <br/>
