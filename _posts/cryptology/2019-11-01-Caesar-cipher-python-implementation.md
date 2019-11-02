@@ -13,6 +13,25 @@ It's one of the simplest and most widely known encryption techniques. It also us
 In Caesar cipher, each letter in the plaintext is replaced by a letter some fixed number of positions **(or Key)** down the alphabet or the list of symbols accepted.
 In our python program, we are going to use a constant, called LETTERS. LETTERS constant will be a string containing all possible alphabets and symbols on the keyboard.
 
+
+---
+**Mathematically speaking,**
+
+Let K, X, Y ε {0, 1, 2, .... m}, where
+
+K - Encryption Key ;
+X - Clear text ;
+Y - Encrypted text ;
+m - Size of Symbols list/Key space
+
+Encryption Function (e):
+Y = e<sub>K</sub> ≡ X + K mod m
+
+Decryption Function (d):
+X = d<sub>K</sub> ≡ Y - K mod m
+
+---
+
 ## Python implementation:
 
 ### Step 1:
@@ -140,3 +159,5 @@ In the next article on Cryptology, we'll try to understand how brute forcing wor
 <br/>
 <br/>
 *Keep coding! Have fun.*
+
+###### Reference: Hacking Secret Ciphers with Python - By Al Sweigart
