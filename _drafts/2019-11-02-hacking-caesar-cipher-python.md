@@ -55,14 +55,11 @@ def hack_caesar_cipher(encrypted_message):
 
 Output:
 ```
-$ python3 caesar_cipher.py
-Keyspace size: |K| = 95
-Cipher Text = #uv?-v?-z|-?rp>r@-zr??ntr
-Keyspace size: |K| = 95
-Clear Text = This is my secret message
+
+
 ```
 
-In the next article on Cryptology, we'll try to understand how brute forcing works and why using caesar cipher or any other historical ciphers is not a very good idea.
+In the next article on Cryptology, we'll learn about Affine Cipher, which is kind of an extended version of the Caesar Cipher.
 
 <br/>
 <br/>
