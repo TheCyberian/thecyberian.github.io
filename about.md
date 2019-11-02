@@ -10,3 +10,5 @@ As a developer, I can design and develop mobile tools that allow you to tap into
 *As a tester, I can test the application rigorously for software vulnerabilities, which if left unchecked, can be exploited by hackers.*
 
 I take additonal steps to have a clearer understanding of what steps should be taken to ensure your specific product needs are entirely met. My goal is not just to get the project completed, I will work with you, tracking marketing effectiveness and making adjustments to the product if needed to bring you closer to your goals.
+
+Apart from the work, I spend my time researching topics revolving around Cyber Security and by trying to decipher the ways and means of Cryptography.
