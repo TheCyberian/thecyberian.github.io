@@ -12,3 +12,5 @@ As a developer, I can design and develop mobile tools that allow you to tap into
 I take additonal steps to have a clearer understanding of what steps should be taken to ensure your specific product needs are entirely met. My goal is not just to get the project completed, I will work with you, tracking marketing effectiveness and making adjustments to the product if needed to bring you closer to your goals.
 
 Apart from the work, I spend my time researching topics revolving around Cyber Security and by trying to decipher the ways and means of Cryptography.
+
+You can check out my side projects on <a target="_blank" href="https://github.com/TheCyberian?tab=repositories">GitHub.</a>
