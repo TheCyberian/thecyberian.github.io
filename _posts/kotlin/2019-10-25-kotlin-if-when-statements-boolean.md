@@ -7,6 +7,8 @@ author: Utkarsh Raghav
 
 In the following tutorial, we're going to understand how to use condtional if statements and uses of boolean type in a program written in Kotlin.
 
+<img id="tic-tac-board" class="mx-auto" src="/assets/images/posts/android-kotlin.png" alt="board" style="width: 500px;">
+
 #### Note :-<br>
 
 -   This tutorial assumes, you have a basic working knowledge of IntelliJ Idea.

@@ -7,6 +7,7 @@ author: Utkarsh Raghav
 In linux you have control over not just commands input or outputs, but also over execution. You may run commands while a job runs in background. You may cancel the commands before they finish executing, or you may interrupt a command to be started again later from where you left off. Background operations are particulary useful for long jobs such as *apt update* or *apt upgrade*, where instead of waiting at the terminal until the job execution completes, you can place it in the background. Meanwhile, you can continue executing other linux commands in foreground.
 
 ## Jobs: Background, Kills and Interruptions
+<img id="the-shell-processes" class="mx-auto" src="/assets/images/posts/linux-processes.png" alt="board" style="width: 850px;">
 ### Running in background:
 When you place a job in the background, *a user job number*, placed in square brackets and *a system process number* is displayed.
 - The user job number is the number by which the user references the job.

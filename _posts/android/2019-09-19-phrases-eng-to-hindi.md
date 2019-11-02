@@ -6,10 +6,12 @@ categories: Android Java
 author: Utkarsh Raghav
 ---
 # English To Hindi
+<img id="android-bot" class="mx-auto" src="/assets/images/posts/android-bot.jpeg" alt="board" style="width: 550px;">
 
 ## Creating a Simple Phrases Translator for English to Hindi Convertion.
 
 In the below tutorial, we're going to build an application which will play 8 different phrases. The phrases are daily use terms and sentences in English language, translated to Hindi language(audio) on tapping the respective phrase.
+
 
 #### Note :-<br>
 - This tutorial assumes, you have a basic working knowledge of android studio and the framework in place.

@@ -8,6 +8,8 @@ author: Utkarsh Raghav
 
 In the below tutorial, we're going to write a simple Hello World script in Kotlin. We will get familiar with creating kotlin files and basic syntaxes in further posts.
 
+<img id="kotlin-helloworld" class="mx-auto" src="/assets/images/posts/kotlin-hello-world-tutorial.jpg" alt="board" style="width: 575px;">
+
 #### Note :-<br>
 - This tutorial assumes, you have a basic working knowledge of IntelliJ Idea.
 - Have Kotlin installed setup in your machine.

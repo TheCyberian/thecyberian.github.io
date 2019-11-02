@@ -9,6 +9,8 @@ In the following article, we'll be going over the ways to manage and control the
 #### Note :-<br>
 The shell commands demoed have been executed on Ubuntu, which is a debian based derivative of Linux.
 
+<img id="the-shell" class="mx-auto" src="/assets/images/posts/linux-shell.jpg" alt="board" style="width: 550px;">
+
 ## Filename Pattern Matching
 Filenames are most common arguements used in commands and often you may know only a part of the filename, or maybe you want to refer multiple files with similar names or extensions. This is where pattern matching comes into play.
 

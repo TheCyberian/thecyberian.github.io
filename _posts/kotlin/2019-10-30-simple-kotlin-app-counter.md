@@ -9,6 +9,8 @@ author: Utkarsh Raghav
 
 In the following tutorial, we'll be working to create a simple kotlin application for android platform. The tutorial has been divided into 5 steps, each step moving progressively on top of last one.
 
+<img id="kotlin-android" class="mx-auto" src="/assets/images/posts/kotlin-android.png" alt="board" style="width: 500px;">
+
 The app is a simple counter, which on press of a button will keep track of counter and display it on the screen. It'll reset to zero on press of **reset** button.<br>
 
 #### Note :-<br> This tutorial assumes, you have a basic working knowledge of android studio and the framework in place.

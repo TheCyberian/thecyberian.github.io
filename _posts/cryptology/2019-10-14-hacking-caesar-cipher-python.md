@@ -14,6 +14,8 @@ And with today's computing power, it will take just some milliseconds to achieve
 
 This very well explains why it's such a bad idea to use **Caesar Cipher** and why one should never use it.
 
+<img id="caesar-cipher" class="mx-auto" src="/assets/images/posts/caesar-cipher.jpg" alt="board" style="height:400px; width: 550px;">
+
 Now we'll put together a python script to brute force through the encrypted text.
 
 ## Python implementation:
@@ -88,9 +90,12 @@ def hack_caesar_cipher(encrypted_message):
 
 {% endhighlight %}
 
-
 In the next article on Cryptology, we'll learn about Affine Cipher, which is in some aspect, an extended version of the Caesar Cipher.
+
+
 
 <br/>
 <br/>
 *Keep coding! Have fun.*
+
+###### Reference: Hacking Secret Ciphers with Python - By Al Sweigart

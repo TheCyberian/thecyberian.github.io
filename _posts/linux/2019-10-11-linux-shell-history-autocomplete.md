@@ -6,6 +6,9 @@ author: Utkarsh Raghav
 ---
 In the following article, we'll be going over the linux shell, it's types and some basic functionalities of the BASH or Bourne Again SHell.
 
+<img id="shell-shock" class="mx-auto" src="/assets/images/posts/bash-shellshock.png" alt="board" style="width: 750px;">
+
+
 #### Popular types of shells
 1. bash - Bourne Again SHell
 2. ksh - Korn Shell
