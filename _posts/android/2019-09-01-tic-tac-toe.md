@@ -15,7 +15,7 @@ In the following tutorial, we'll be working to create a basic TicTacToe game for
 #### Note :-<br> This tutorial assumes, you have a basic working knowledge of android studio and the framework in place.
 <br>
 
-![TicTacToe](http://i.imgur.com/n88Kibx.jpg)
+![TicTacToe](https://i.imgur.com/n88Kibx.jpg)
 
 ### Step 1:
 First, I have created images to be used for the application using GNU Image Manipulation Program, popularly known as GIMP. The game board, X's and 0's were created as part of these images. If you're doing the same, make sure the images are created as '.png' or '.jpg' format only. Otherwise, you may download copyright free images from the internet, which ever way works for you.
