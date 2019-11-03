@@ -259,7 +259,7 @@ Decrypted text:
 How long do you want these messages to remain secret? "I want them to remain secret for as long as men are capable of evil." -Neal Stephenson
 ```
 
-In the next article on Cryptology, we'll understand how to hack Affine cipher elegantly.
+In the next article on Cryptology, we'll understand how to detect english Programmatically after which we'll get to the article where we'll learn how to hack the Affine cipher elegantly.
 
 <br/>
 <br/>
