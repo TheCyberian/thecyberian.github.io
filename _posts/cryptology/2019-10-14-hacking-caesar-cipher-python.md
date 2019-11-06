@@ -10,7 +10,7 @@ So, if you were to brute force it, how many possible keys do you think will be t
 The number of keys is equal to the size or length of the supported symbols list. In our case, the length of string was 95.
 So, it'll just take 95 attempts, with all possible keys, and the cipher breaks.
 
-And with today's computing power, it will take just some milliseconds to achieve that.
+And with today's computing power, it will take just a few milliseconds to achieve that, even with an old boxed machine.
 
 This very well explains why it's such a bad idea to use **Caesar Cipher** and why one should never use it.
 
