@@ -63,7 +63,7 @@ if detect_english.isEnglish(decryptedText):
 That's it. We have successfully hacked the Affine Cipher. Now you know better, than using Affine Cipher in any of your applications.
 
 In the upcoming articles on Cryptology, we'll see more complicated, **the Simple Substitution Cipher** and the **Vigenère Cipher**.
-We'll also learn about frequency analysis and it's role in breaking some serious Encryptions in matter of seconds.
+We'll also learn about techniques of pattern analysis & frequency analysis and their role in breaking some serious Encryptions in matter of seconds.
 
 ### Source Code :
 {% highlight python %}
