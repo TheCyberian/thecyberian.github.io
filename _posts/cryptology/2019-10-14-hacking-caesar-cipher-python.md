@@ -70,7 +70,11 @@ Key #93: %wx^/x^/;~/^tr@t_/;t^^pvt
 Key #94: $vw@.w@.:}.@sq?s^.:s@@ous
 {% endhighlight %}
 
-Source Code of the function :
+
+In the next article on Cryptology, we'll learn about Affine Cipher, which is in some aspect, an extended version of the Caesar Cipher.
+
+
+#### Source Code of the function :
 {% highlight python %}
 
 def hack_caesar_cipher(encrypted_message):
@@ -89,9 +93,6 @@ def hack_caesar_cipher(encrypted_message):
         print('Key #{}: {}'.format(key, clear_text))
 
 {% endhighlight %}
-
-In the next article on Cryptology, we'll learn about Affine Cipher, which is in some aspect, an extended version of the Caesar Cipher.
-
 
 
 <br/>

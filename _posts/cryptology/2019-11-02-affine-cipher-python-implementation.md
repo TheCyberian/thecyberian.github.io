@@ -159,7 +159,9 @@ def modInverse(a, m):
     return None
 ```
 
-Complete Source Code :
+In the next article on Cryptology, we'll understand how to detect english Programmatically after which we'll get to the article where we'll learn how to hack the Affine cipher elegantly.
+
+#### Complete Source Code :
 {% highlight python %}
 import sys, random, math
 
@@ -244,22 +246,20 @@ if __name__ == '__main__':
 
 {% endhighlight %}
 
-Output: *Encryption*
+#### Output: *Encryption*
 ```
 $ python3 affine_cipher.py
 Key: 1047
 Encrypted text:
 n93-w9.?-}9-I9|-3[.q-qJ)f)-#)ff[?)f-q9-Z)#[U.-f)rZ)qi-Cy-3[.q-qJ)#-q9-Z)#[U.-f)rZ)q-49Z-[f-w9.?-[f-#).-[Z)-r[D[gw)-94-)(UwjC-_Q)[w-*q)DJ).f9.
 ```
-Output: *Decryption*
+#### Output: *Decryption*
 ```
 $ $ python3 affine_cipher.py
 Key: 1047
 Decrypted text:
 How long do you want these messages to remain secret? "I want them to remain secret for as long as men are capable of evil." -Neal Stephenson
 ```
-
-In the next article on Cryptology, we'll understand how to detect english Programmatically after which we'll get to the article where we'll learn how to hack the Affine cipher elegantly.
 
 <br/>
 <br/>

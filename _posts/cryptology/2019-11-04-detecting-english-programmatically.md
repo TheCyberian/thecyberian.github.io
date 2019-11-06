@@ -94,7 +94,7 @@ def isEnglish(message, wordPercentage=20, letterPercentage=85):
 
 #### Step 6 :
 Now let's test the script out.
-
+#### Testing :
 ```
 Python 3.7.5rc1 (default, Oct  8 2019, 16:47:45)
 [GCC 9.2.1 20191008] on linux
@@ -107,8 +107,10 @@ True
 True
 >>>
 ```
+In the next Cryptology article, we'll move forward with cracking the Affine Cipher.
 
 Please find the below source code of the script.
+#### Source Code :
 
 {% highlight Python%}
 UPPERLETTERS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
@@ -158,7 +160,6 @@ def isEnglish(message, wordPercentage=20, letterPercentage=85):
 
 {% endhighlight %}
 
-In the next Cryptology article, we'll move forward with cracking the Affine Cipher.
 
 <br/>
 <br/>
