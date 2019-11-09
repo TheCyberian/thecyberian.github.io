@@ -13,8 +13,9 @@ As a user, you can define variables within shell and these variables are what ar
 When declaring variable's name below points should be kept in mind
 - The variable name can be any set of alphabetic characters, including underscores. The name can even contain numbers, but number cannot be the first character.
 - A variable name cannot have any other characters, like exclamation point, ampersand, or even space. Such symbols are reserved by the shell for its own use.
+- Avoid using variables with same name as system variables. You can list them using, **printenv**, **env** or even **set** command.
 
-For assignin values, like most other programming language, you have to use assignment operator "=". But be careful not to place any spaces around the operator. It will cause the operation to fail. That's cause shell will try to parse it as a commmand.
+For assigning values, like most other programming language, you have to use assignment operator "=". But be careful not to place any spaces around the operator. It will cause the operation to fail. That's cause shell will try to parse it as a commmand.
 
 And when referencing the declared variables, you should precede the variable name with *$* symbol.
 ```
@@ -45,7 +46,7 @@ $ s='One of the port cities of India is $port'
 $ echo $s
 One of the port cities of India is $port
 ```
-- Another time you may want to use Single quotes is when you want to assign a written command to a variable. You can then use variable name to execute the linux command. (it kind off works similar to *alias*, in matter of functionality. However, we'll be discussing more about *alias* keyword in later articles.)
+- Another time you may want to use Single quotes is when you want to assign a written command to a variable. You can then use variable name to execute the linux command. (it kind off works similar to *alias*, in matter of functionality, but it is only available within the scope, unlike command aliases. However, we'll be discussing more about *alias* keyword in later articles.)
 ```
 $ lsf='ls -F'
 $ $lsf
