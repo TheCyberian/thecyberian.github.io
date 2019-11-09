@@ -6,9 +6,6 @@ author: Utkarsh Raghav
 ---
 In the following article, we'll be going over the linux shell, it's types and some basic functionalities of the BASH or Bourne Again SHell.
 
-<img id="shell-shock" class="mx-auto" src="/assets/images/posts/bash-shellshock.png" alt="board" style="width: 750px;">
-
-
 #### Popular types of shells
 1. bash - Bourne Again SHell
 2. ksh - Korn Shell
@@ -18,6 +15,7 @@ In the following article, we'll be going over the linux shell, it's types and so
 #### Note :-<br>
 The shell commands demoed have been executed on Ubuntu, which is a debian based derivative of Linux.
 
+<img id="shell-shock" class="mx-auto" src="/assets/images/posts/bash-shellshock.png" alt="board" style="width: 750px;">
 
 ## The Command Line
 The Linux CLI consists of a single line into which you enter commands with their required options and arguements. From a desktop environment (GNOME or KDE), you can access the CLI by opening a terminal window. If you start Linux command line interface, you will be presented with a BASH shell command line upon login.
