@@ -183,5 +183,3 @@ Then loops over possible clients in the subnet, pinging them. If they respond, i
 <br/>
 <br/>
 *Keep coding! Have fun.*
-
-###### Reference: Hacking Secret Ciphers with Python - By Al Sweigart

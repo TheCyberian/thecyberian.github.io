@@ -108,5 +108,3 @@ In the next Linux article we'll understand how to use the initialization files t
 <br/>
 <br/>
 *Keep coding! Have fun.*
-
-###### Reference: Hacking Secret Ciphers with Python - By Al Sweigart
