@@ -103,7 +103,7 @@ A reserved set of keywords is used for the names of these system variables, as d
 
 For Example: Keyword **HOME** is used by system to define HOME variable, which holds pathname of user's home directory.
 
-In the next Linux article we'll understand how to use the initialization files to personalize the shell for use. We'll also be going through multiple shell variables and understand there usefulness in the smooth working of the Linux shell.
+In the next Linux article we'll see the list of the reserved keywords and also understand how to use the initialization files to personalize the shell for our use. We'll also be going through multiple shell variables and understand there usefulness in the smooth working of the Linux shell.
 
 <br/>
 <br/>

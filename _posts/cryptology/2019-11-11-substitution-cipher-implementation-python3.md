@@ -106,7 +106,7 @@ def main():
     print(translated)
 ```
 
-This is it, we have successfully implemented substitution cipher. In the upcoming article, we'll see how to break substitution cipher smartly, even when it has a billion times more possible keys than the DES, the most secure encryption of the 20th century(not anymore though, in the 21st century, now we have AES and 3DES).
+This is it, we have successfully implemented substitution cipher. In the upcoming article, we'll see some concepts of Pattern analysis which will help us to break substitution cipher smartly, even when it has a billion times more possible keys than the DES, the most secure encryption of the 20th century(not anymore though, in the 21st century, now we have AES and 3DES).
 
 ### Source Code :
 {% highlight python %}

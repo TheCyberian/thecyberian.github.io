@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Linux Shell: Configurations - 2"
+title:  "Linux File System Operations"
 categories: Linux
 author: Utkarsh Raghav
 ---
