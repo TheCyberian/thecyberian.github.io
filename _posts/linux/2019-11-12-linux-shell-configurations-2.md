@@ -38,7 +38,7 @@ $ HISTSIZE=1001
 $ echo $HISTSIZE
 1001
 ```
-But some of these changes will only stay active in the current shell and will disappear when you open up a new shell. This happens due to the initialization files.
+But these changes will only stay active in the current shell and will disappear when you open up a new shell. This happens due to the initialization files.
 
 ### Using initialization files:
 We read about some of initialization file, such as .bash_profile, .bashrc etc, in the last article. These files are essentially shell scripts, which are executed before something else executes, setting up the field for the bigger process.
