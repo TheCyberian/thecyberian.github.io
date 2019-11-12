@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pattern Analysis for Cryptology with Python3"
+title:  "Pattern Analysis for Cryptology Using Python3"
 categories: Cryptology Python
 author: Utkarsh Raghav
 ---
