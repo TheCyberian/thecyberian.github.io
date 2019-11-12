@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Linux Shell: Configurations - 2"
+title:  "Linux Shell: Configurations - II"
 categories: Linux
 author: Utkarsh Raghav
 ---
