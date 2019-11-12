@@ -1,9 +1,9 @@
 title: Utkarsh Raghav
 email: contact@utkarshraghav.ml
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   a SDET and a Linux junkie.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://utkarshraghav.ml" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: "https://utkarshraghav.ml"
 linkedin_username: utkarsh-raghav-qa
 github_username:  TheCyberian
 
@@ -22,17 +22,3 @@ defaults:
     values:
       layout: "post"
       permalink: /:categories/:year/:month/:title
-
-
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/

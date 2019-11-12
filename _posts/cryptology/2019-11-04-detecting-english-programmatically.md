@@ -165,4 +165,4 @@ def isEnglish(message, wordPercentage=20, letterPercentage=85):
 <br/>
 *Keep coding! Have fun.*
 
-###### \*Courtsey: Hacking Secret Ciphers with Python - By Al Sweigart
+###### \*Courtesy: Hacking Secret Ciphers with Python - By Al Sweigart
