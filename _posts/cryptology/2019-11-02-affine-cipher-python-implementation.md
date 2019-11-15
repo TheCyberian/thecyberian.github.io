@@ -10,15 +10,17 @@ We use a key consisting of two parts for this; k = (keyA, keyB)
 Since, we are using multiplication while encrypting, you might think that we need to divide to decrypt with the affine cipher.
 But there's a catch here, if you try it yourself, you’ll quickly understand that it doesn’t work.
 
+<img id="caesar-cipher" class="mx-auto" src="/assets/images/posts/dataencryption.jpeg" alt="board" style="height:600px; width: 600px;">
+
 To decrypt the affine cipher, we need to multiply by the key’s modular inverse. And to find modular inverse,
-keyA and size of symbol set must be relatively prime, for us to be able to find it, i.e., Highest Common Factor or
+keyA and size of symbol set must be relatively prime, for us to be able to do so, i.e., Highest Common Factor or
 Greatest Common Divisor must be 1 for them.
 
 ```
 gcd(key, size of symbol set) == 1.
 ```
 
-If that condition's not true, modular inverse for keyA and m *(Key Space)* doesn't exist, and the encryption will not work correctly.
+If that condition's not true, modular inverse for keyA and m *(Key Space)* doesn't exist, and the encryption will not work properly.
 
 ---
 **Mathematically speaking,**
