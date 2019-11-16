@@ -1,4 +1,4 @@
-function caesarCipher() {
+function affineCipher() {
 
   var message = document.getElementById("message").value;
   var key = +document.getElementById("key").value;
