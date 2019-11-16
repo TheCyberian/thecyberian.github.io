@@ -13,7 +13,7 @@
         <a class="list-reset left link-primary header-link ml-1 mt-1" href="{{ "/" | relative_url }}"><img class="site-title" src="{{ "/assets/images/logo-utr.png" | relative_url }}" alt="Logo" style="width: 40px"></a>
         <ul class="list-reset right py-1 header-text font-smoothing mr-1 mt-1">
           {% for my_page in site.pages %}
-          {% if my_page.title == "About" %}
+          {% if my_page.title == "About" or my_page.title == "Code Breaking" %}
           <li class="inline-block">
             <a class="align-middle link-primary header-link mr-2" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
           </li>
