@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Detect English with Python3"
+title:  "Detect English for Cryptanalysis with Python3"
 categories: Cryptology Python
 author: Utkarsh Raghav
 ---
