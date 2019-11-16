@@ -10,7 +10,7 @@ Caesar Cipher (or shift cipher) is one of the well known historical cipher. It's
 *<b>A little history before we get started:</b>
 It is said to have been used by Julius Caesar to communicate with his army. Caesar is considered to be one of the first person to have ever employed encryption for securing messages. Caesar decided that shifting each letter in the message would be his standard algorithm, and so he informed all of his generals of his decision, and was then able to send them secured messages.*
 
-<img id="caesar-cipher" class="mx-auto" src="/assets/images/posts/caeser-cipher.png" alt="board" style="width: 575px;">
+<img id="caesar-cipher" class="mx-auto" src="/assets/images/posts/caeser-cipher.png" alt="caesar-cipher" style="width: 575px;">
 
 It's one of the simplest and most widely known encryption techniques. It also uses a simple bit of modular arithmetic.
 In Caesar cipher, each letter in the plaintext is replaced by a letter some fixed number of positions **(or Key)** down the alphabet or the list of symbols accepted.

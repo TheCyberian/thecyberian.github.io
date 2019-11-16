@@ -6,6 +6,7 @@ author: Utkarsh Raghav
 ---
 In the last part of this article on linux shell configuration, we discussed some common features of bash such as *aliases* and how shell operations can be controlled and configured for your use.
 We saw that we can configure the shell with shell parameters, as well as some system variables which are set by shell itself.
+<img id="shell-config" class="mx-auto" src="/assets/images/posts/shellconfig.jpeg" alt="the-shell-configurations" style="width: 800px;">
 
 In this article we'll learn, as a user, how you can change them for your own personalized version of shell. You can get a list of system variables by using the `printenv` command inside the shell.
 

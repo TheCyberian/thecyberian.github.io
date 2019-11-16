@@ -8,6 +8,8 @@ A shell script is basically bunch of Linux commands combined together to perform
 Although, the shell has a flexible and powerful set of programming tools allowing user to build complex scripts. It supports
 local and global variables, passing arguements from one script to another. It has complete set of control structures, includings **if** statements and **loops**.
 
+<img id="shell-scripting" class="mx-auto" src="/assets/images/posts/shellscripting.jpeg" alt="the-shell-scripting" style="width: 800px;">
+
 ### Shell Variables:
 As a user, you can define variables within shell and these variables are what are referred to as **shell variables**.
 When declaring variable's name below points should be kept in mind

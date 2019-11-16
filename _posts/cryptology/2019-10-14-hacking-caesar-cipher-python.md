@@ -14,7 +14,7 @@ And with today's computing power, it will take just a few milliseconds to achiev
 
 This very well explains why it's such a bad idea to use **Caesar Cipher** and why one should never use it.
 
-<img id="caesar-cipher" class="mx-auto" src="/assets/images/posts/caesar-cipher.jpg" alt="board" style="height:400px; width: 550px;">
+<img id="caesar-cipher" class="mx-auto" src="/assets/images/posts/caesar-cipher.jpg" alt="caesar-cipher" style="height:400px; width: 550px;">
 
 Now we'll put together a python script to brute force through the encrypted text.
 

@@ -7,6 +7,8 @@ author: Utkarsh Raghav
 In this two part article on linux shell configuration, we'll be understanding how to configure linux shells.
 Since, the BASH shell is default for most Linux distros, we'll be discussing some common feature of it and learn how to configure the shell to make it's personalized version for your use. We'll going over variety of topics, including *aliases*, and shell initialization files.
 
+<img id="shell-config" class="mx-auto" src="/assets/images/posts/shellconfig.jpeg" alt="the-shell-configurations" style="width: 800px;">
+
 The other shells such as *tcsh, ksh and zsh* share many of the features with BASH. You may check out respective manuals for these if you want to learn more, using `man` command, or by visiting the online manuals after installing the respective shells.
 
 ### Aliases

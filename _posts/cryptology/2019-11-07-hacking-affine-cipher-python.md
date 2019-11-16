@@ -8,6 +8,10 @@ So, in the last article we learnt how to detect english programatically with a p
 
 As we know that the affine cipher encryption is limited to a few thousand keys. This means it is minor task to perform a brute-force attack against it. And with english detection possible now, it's going to be a pretty simple task.
 
+
+<img id="affine-cipher-hack" class="mx-auto" src="/assets/images/posts/affinehack.jpeg" alt="hack-affine-cipher" style="height:600px; width: 600px;">
+
+
 In our case, the possible integers for Key A and possible integers for Key B are 95 each. To get the entire range of possible keys, we should multiply these values together, i.e., 95*95 = 9025.
 
 But to hack the Affine cipher will be an easy task now, as we have already written most of the code in previous articles and will just be putting it all together in this one to achieve the results.

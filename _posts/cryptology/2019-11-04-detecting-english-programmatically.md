@@ -11,6 +11,8 @@ To achieve that, we need to figure out a way such that, our program computes tha
 
 That way, if the computer decrypts with the wrong key, it knows to go on and try the next possible key. And when the computer tries a key that decrypts to English text, it can stop and bring that key to the attention of the cryptanalyst. Now the cryptanalyst won’t have to look through thousands of incorrect decryptions.
 
+<img id="caesar-cipher" class="mx-auto" src="/assets/images/posts/englishdetect.jpeg" alt="board" style="height:600px; width: 600px;">
+
 But the question here is, How can a computer understand English ?
 Simple answer, **IT CAN'T** at least not directly. Although, we have another way to do this. We know that all english text words have one thing in common, i.e., they can be found in a **Dictionary**. Once we have the words, we can basically test to see if the word we are checking is present in the Dictionary.
 
